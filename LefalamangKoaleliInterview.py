@@ -92,6 +92,12 @@ plt.legend()
 plt.show()
 
 
+# In[22]:
+
+
+# This excercise took me 1hr and 49 minutes to complete it
+
+
 # In[ ]:
 
 
